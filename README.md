@@ -15,29 +15,28 @@ estimate. I have transcribed and compiled these estimates myself from
 publicly available sources (e.g., Howell et al. 2002; Bernot and Press
 2018). This has been done in an effort to provide a compendium of the
 entire time series of abundance estimates in a single machine readable
-file to interested parties.
+file to interested parties. To my knowledge, the time series of
+abundance estimates has not been compiled into a single data file that
+is publicly available to facilitate review and analysis.
 
 These estimates are of interest with respect to elk population dynamics
-and trends at Point Reyes National Seashore and elsewhere. Likewise the
-data file is of interest to the public in the context of the National
-Park Service’s (NPS) existing and proposed management plans and actions
-(e.g., fencing and other forms of elk population control) that affect
-these herds, including NPS’s cooperative agreements with tribal and
-state authorities in California. To my knowledge, the time series of
-abundance estimates has not been compiled into a single data file that
-is publicly available to facilitate independent review and analysis.
-Thus, interested parties will include the scientific community,
-educators, Indian nation (in particular the Federated Tribes of Graton
-Rancheria), the California Department and Commission of Fish and Game,
-and the general public.
+and trends at Point Reyes National Seashore. Likewise the data file is
+of interest to the public in the context of the National Park Service’s
+(NPS) existing and proposed management plans and actions (e.g., fencing
+and other forms of elk population control) that affect these herds,
+including NPS’s cooperative agreements with tribal and state authorities
+in California. Thus, interested parties will include the scientific
+community, educators, Indian nation (in particular the Federated Indians
+of Graton Rancheria), the California Department and Commission of Fish
+and Wildlife/Game, and the general public.
 
-The compiled estimates are missing some years; including more recent
-years since 2018, where I have not yet been able to find publicly
+The estimates compiled here are missing some years; including more
+recent years since 2018, where I have not yet been able to find publicly
 available information to fill certain gaps. If you have knowledge of
-missing estimates that should be included (with a citable reference), to
-make this dataset as complete and informative as possible, please feel
-free to collaborate by opening a new “issue” for this repository, or by
-submitting a pull request to update the data file.
+missing estimates that should be included to make this dataset as
+complete and informative as possible, please feel free to collaborate by
+opening a new “issue” for this repository, or by submitting a pull
+request to update the data file.
 
 These transcribed estimates are provided as is, with no warranty. It is
 the end-user’s responsibility to ensure that the records have been
@@ -46,10 +45,10 @@ a correction through one of the two approaches noted above (i.e., open
 an issue or submit a pull request).
 
 Lastly, I am not an elk biologist. Any questions on the underlying
-survey methodology or the ecology of these elk should be pointed to the
-appropriate contact(s) at the National Park Service. At the time of
-writing, the contact listed for elk surveys on the National Park Service
-website is: <Dave_Press@nps.gov>
+survey methodology or other details underlying these estimates should be
+pointed to the appropriate contact(s) at the National Park Service. At
+the time of writing, the contact listed for elk surveys on the National
+Park Service website is: <Dave_Press@nps.gov>
 
 About me: I was raised in California, and have a PhD in fisheries stock
 assessment and wildlife population dynamics modeling from the University
@@ -57,9 +56,9 @@ of Washington. I am a Senior Biometrician (environmental consultant) at
 ICF International, where I work on natural resource management issues
 with state and federal agencies, industry, and tribes. I am also a
 federally appointed member of the Pacific Scientific Review Group
-established to provide independent scientific expertise to the U.S.
-National Marine Fisheries and Fish and Wildlife Services under the
-Marine Mammal Protection Act.
+established by Congress to provide independent scientific expertise to
+the U.S. National Marine Fisheries and Fish and Wildlife Services under
+the Marine Mammal Protection Act.
 
 **References**
 
