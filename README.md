@@ -61,13 +61,6 @@ established to provide independent scientific expertise to the U.S.
 National Marine Fisheries and Fish and Wildlife Services under the
 Marine Mammal Protection Act.
 
-<figure>
-<img
-src="https://github.com/John-Brandon/pt_reyes_elk/blob/main/img/total_abundance_each_herd.png"
-alt="annual_abundance_fig" />
-<figcaption aria-hidden="true">annual_abundance_fig</figcaption>
-</figure>
-
 **References**
 
 Bernot, T. and Press, D. 2018. Tule elk monitoring and management at
@@ -81,6 +74,14 @@ California. J. Wildl. Manage. 66:478–490
 NPS. Survey results from more recent years were compiled from various
 National Park Service webpages. Links to individual URLs are provided in
 the data file.
+
+<figure>
+<img
+src="https://github.com/John-Brandon/pt_reyes_elk/blob/main/img/total_abundance_each_herd.png"
+alt="Figure: Annual Abundance" />
+<figcaption aria-hidden="true"><strong>Figure: Annual
+Abundance</strong></figcaption>
+</figure>
 
 **Table: Point Reyes National Seashore Elk Abundance Estimates**
 
@@ -188,6 +189,8 @@ the data file.
 | 2021 | Limantour | NA | NA | NA | NA | NA | NA | No Limantour survey in 2022 due to staffing and weather (per link below) |
 | 2022 | Limantour | 199 | NA | NA | NA | NA | NA | <https://www.nps.gov/pore/learn/nature/tule_elk_tomales_point_faq.htm#>:~:text=As%20of%20March%202024:%20Point,tule%20elk%20in%20the%20park. |
 | 2024 | Limantour | NA | NA | NA | NA | NA | NA | NA |
+
+![](https://github.com/John-Brandon/pt_reyes_elk/blob/main/img/pic_tuleelk_trio_480x320.webp)
 
 <!-- ```{r pressure, echo=FALSE} -->
 
